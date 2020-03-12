@@ -1,2 +1,2 @@
 # NANO_281
- labs + work for nano281: data sci in matsci
+ labs + work for nano281: data science in materials science & engineering
